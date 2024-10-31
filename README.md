@@ -1,5 +1,4 @@
 # Multiple-Disease-Prediction-System
-# Multiple Disease Prediction System
 
 This project is a web application built using [Streamlit](https://streamlit.io/) that predicts the likelihood of a person having diabetes, heart disease, or Parkinson's disease. The application uses machine learning models trained on relevant datasets to provide predictions based on user input.
 
